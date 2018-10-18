@@ -1,0 +1,23 @@
+﻿https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR/
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR/
+https://docs.microsoft.com/en-us/aspnet/core/signalr/version-differences?view=aspnetcore-2.1
+
+npm init -y
+npm install @aspnet/signalr
+
+: npm WARN WebSignalr@1.0.0 No description
+In Zeile:1 Zeichen:1
++ npm install @aspnet/signalr
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm WARN WebSignalr@1.0.0 No description:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm
+ 
+WARN
+ WebSignalr@1.0.0 No repository field.
+
+PM> 
+
+https://localhost:44350/css/boostrap.css
+https://localhost:44350/css/bootstrap.css
